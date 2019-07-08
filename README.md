@@ -1,1 +1,1 @@
-# text-mining-course
+# TEXT MINING COURSE
