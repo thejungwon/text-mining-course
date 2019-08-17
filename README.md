@@ -89,3 +89,14 @@
   > _W12-2. 머신러닝을 활용해 스팸문서, 중요문서 판별하기_  
   > _W12-3. 딥러닝을 활용해 자동으로 기사 생성하기_  
   > _W12-4. 딥러닝을 활용해 챗봇 만들기_  
+
+
+---
+## References
+> 본 강의자료는 아래 문헌들을 참고해 구성되었습니다.
+- TEXT MINING for PRACTICE, 전병진, https://github.com/fingeredman/text-mining-for-practice
+- Byte of Python
+- 패스트캠퍼스 <텍스트 분석 유치원 1기~5기> 실습자료
+- 텍스트 마이닝(Text Mining), 송민 지음, 청람출판사, 2017
+- 파이썬을 이용한 머신러닝, 딥러닝 실전 개발 입문, 쿠지라 히코우즈쿠에, 위키북스, 2017
+- Natural Language Processing with PyTorch, 김기현, https://kh-kim.gitbook.io/natural-language-processing-with-pytorch/
