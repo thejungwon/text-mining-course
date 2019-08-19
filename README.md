@@ -16,9 +16,9 @@
 #### WEEK 02. Python으로 텍스트 데이터 다루기
 - 텍스트 데이터 실무 활용사례
 - 실습  
-  > _W02-1. 텍스트 데이터를 다루기 위한 Python: 정규식
-  > _W02-2. 텍스트 데이터를 다루기 위한 Python: 파일 입출력  
-  > _W02-2. 텍스트 데이터를 다루기 위한 Python: Numpy,Matplotlib,Pandas 패키지 익히기  
+  > _W02-1. 텍스트 데이터를 다루기 위한 Python: 정규식_  
+  > _W02-2. 텍스트 데이터를 다루기 위한 Python: 파일 입출력_   
+  > _W02-3. 텍스트 데이터를 다루기 위한 Python: Numpy, Matplotlib, Pandas 패키지 익히기_  
   > _Assignment 02-1: 트위터에서 전화번호 추출하기_  
   > _Assignment 02-2: 인스타그램 게시글에서 해시태그 가져오기_  
 
