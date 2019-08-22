@@ -6,7 +6,7 @@
 
 #### WEEK 01. Python 기초문법 알아보기
 - 강의개요 소개
-- 비정형 텍스트 데이터 분석 기본개념
+- [비정형 텍스트 데이터 분석 기본개념](https://github.com/thejungwon/text-mining-course/blob/master/lecture/week-01.pdf)
 - 실습  
   > _실습환경: Python 3.7 & Google Colaboratory_  
   > _W01-1. 텍스트 데이터를 다루기 위한 Python: 기본문법_  
