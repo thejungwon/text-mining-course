@@ -15,13 +15,13 @@
   > _TASK 01: 노래 가사에서 한글과 영어 단어 개수 세기_  
 
 #### WEEK 02. Python으로 텍스트 데이터 다루기
-- 텍스트 데이터 실무 활용사례
+- [텍스트 데이터 실무 활용사례](https://github.com/thejungwon/text-mining-course/blob/master/lecture/week-02.pdf)
 - 실습  
   > _W02-1. 텍스트 데이터를 다루기 위한 Python: 정규식_  
   > _W02-2. 텍스트 데이터를 다루기 위한 Python: 파일 입출력_   
-  > _W02-3. 텍스트 데이터를 다루기 위한 Python: Numpy, Matplotlib, Pandas 패키지 익히기_  
-  > _TASK 02-1: 트위터에서 전화번호 추출하기_  
-  > _TASK 02-2: 인스타그램 게시글에서 해시태그 가져오기_  
+  > _W02-3. 텍스트 데이터를 다루기 위한 Python: Numpy 패키지 익히기_  
+  > _W02-4. 텍스트 데이터를 다루기 위한 Python: Pandas 패키지 익히기_  
+  > _W02-5. 텍스트 데이터를 다루기 위한 Python: Matplotlib 패키지 익히기_  
 
 #### WEEK 03. 텍스트 데이터 수집하기
 - 텍스트 데이터 수집유형 및 웹크롤링
