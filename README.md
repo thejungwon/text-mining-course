@@ -22,7 +22,7 @@
   > _W02-3. 텍스트 데이터를 다루기 위한 Python: Numpy 패키지 익히기_  
   > _W02-4. 텍스트 데이터를 다루기 위한 Python: Pandas 패키지 익히기_  
   > _W02-5. 텍스트 데이터를 다루기 위한 Python: Matplotlib 패키지 익히기_  
-
+- 시청각 자료: [뜻밖의 텍스트 마이닝, 네오플 ](https://www.youtube.com/watch?v=DEFU0ZrWBhA)
 #### WEEK 03. 텍스트 데이터 수집하기
 - 텍스트 데이터 수집유형 및 웹크롤링
 - 실습  
