@@ -24,10 +24,12 @@
   > _W02-5. 텍스트 데이터를 다루기 위한 Python: Matplotlib 패키지 익히기_  
 - 시청각 자료: [뜻밖의 텍스트 마이닝, 네오플 ](https://www.youtube.com/watch?v=DEFU0ZrWBhA)
 #### WEEK 03. 텍스트 데이터 수집하기
-- 텍스트 데이터 수집유형 및 웹크롤링
+- [텍스트 데이터 수집유형 및 웹크롤링](https://github.com/thejungwon/text-mining-course/blob/master/lecture/week-03.pdf)
 - 실습  
-  > _W03-1. BeautifulSoup4 & Requests & Selenium_  
-  > _W03-2. 정적페이지 수집하기: 실시간검색어, 영화댓글_  
+  > _W03-1. Open API 활용하기_
+  > _W03-2. 정적페이지 수집하기: BeautifulSoup, Requests_
+  > _W03-3. 크롤링을 이용한 링크 추출_
+  > _TASK 01: 연속으로 _  
 
 #### WEEK 04. 웹크롤링 실전 활용 & 텍스트 데이터 전처리 이해하기
 - 웹크롤링 실전활용법 및 적용사례 소개
