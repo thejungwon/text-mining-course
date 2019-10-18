@@ -39,18 +39,19 @@
   > _W04-3. 기타 데이터에서 텍스트 추출하기_
 
 #### WEEK 05. 텍스트 데이터 전처리 실전 적용하기
-- [형태소분석과 개체명인식](https://github.com/thejungwon/text-mining-course/blob/master/lecture/week-04.pdf)
+- [형태소분석과 개체명인식](https://github.com/thejungwon/text-mining-course/blob/master/lecture/week-05.pdf)
 - 실습  
   > _W05-1. 한국어 텍스트 데이터 전처리하기: KoNLPy_  
   > _W05-2. 영어 텍스트 데이터 전처리하기: NLTK_
 
 #### WEEK 06. 텍스트 데이터 분석하기: 단어 가중치
-- 단어빈도분석
+- [단어빈도분석](https://github.com/thejungwon/text-mining-course/blob/master/lecture/week-06.pdf)
 - TF-IDF
 - 실습  
   > _W06-1. 단어빈도와 TF-IDF 계산하기_  
-  > _W06-2. 단어 가중치를 활용해 워드클라우드 생성하기_
-
+  > _W06-2. 단어 가중치를 활용해 워드클라우드 생성하기_  
+  > _TASK 01 (optional): 크롤링 + TF-IDF_
+  
 #### WEEK 07. 텍스트 데이터 분석하기: 단어 네트워크
 - 동시출현분석(연관어분석)
 - 단어 네트워크 분석
