@@ -53,7 +53,7 @@
   > _TASK 01 (optional): 크롤링 + TF-IDF_
   
 #### WEEK 07. 텍스트 데이터 분석하기: 단어 네트워크
-- 동시출현분석(연관어분석)
+- [동시출현분석(연관어분석)](https://github.com/thejungwon/text-mining-course/blob/master/lecture/week-07.pdf)
 - 단어 네트워크 분석
 - 실습  
   > _W07-1. 동시출현빈도 계산과 단어 네트워크 생성하기_  
