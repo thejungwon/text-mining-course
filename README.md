@@ -59,7 +59,7 @@
   > _W07-1. 동시출현빈도 계산과 단어 네트워크 생성하기_  
 
 #### WEEK 08. 텍스트 데이터 분석하기: 군집화
-- 단어/문서 군집화
+- [단어/문서 군집화](https://github.com/thejungwon/text-mining-course/blob/master/lecture/week-08.pdf)
 - 토픽모델링
 - 실습  
   > _W08-1. 뉴스기사 군집화로 이슈 모아보기_  
