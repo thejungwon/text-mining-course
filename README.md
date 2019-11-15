@@ -70,6 +70,7 @@
 - 실습  
   > _W09-1. 키워드 추출 및 문서요약 (TextRank)_  
   > _과제소개: 영화 줄거리로 예상관객 성별 맞추기_  
+  > _참고자료: [캐글](https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews/kernels)_  
 
 #### WEEK 10. 텍스트 데이터 분석하기: 단어 임베딩
 - [단어 임베딩: Word2Vec, Glove](https://github.com/thejungwon/text-mining-course/blob/master/lecture/week-10.pdf)
