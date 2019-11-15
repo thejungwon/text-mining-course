@@ -50,7 +50,7 @@
 - 실습  
   > _W06-1. 단어빈도와 TF-IDF 계산하기_  
   > _W06-2. 단어 가중치를 활용해 워드클라우드 생성하기_  
-  > _TASK 01 (optional): 크롤링 + TF-IDF_
+  > _TASK 01 [(optional): 크롤링 + TF-IDF](https://colab.research.google.com/github/thejungwon/text-mining-course/blob/master/practice/week-07/W07-1_text-mining-for-practice_python-co-word-SOLUTION.ipynb)_
   
 #### WEEK 07. 텍스트 데이터 분석하기: 단어 네트워크
 - [동시출현분석(연관어분석)](https://github.com/thejungwon/text-mining-course/blob/master/lecture/week-07.pdf)
