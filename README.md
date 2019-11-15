@@ -72,7 +72,7 @@
   > _과제소개: 영화 줄거리로 예상관객 성별 맞추기_  
 
 #### WEEK 10. 텍스트 데이터 분석하기: 단어 임베딩
-- 단어 임베딩: Word2Vec, Glove
+- [단어 임베딩: Word2Vec, Glove](https://github.com/thejungwon/text-mining-course/blob/master/lecture/week-10.pdf)
 - 단어와 문서를 벡터로 표현하는 방법: Word2Vec, Doc2Vec
 - 실습  
   > _W10-1. 뉴스기사 텍스트 데이터를 벡터로 표현하기_  
