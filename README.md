@@ -81,9 +81,13 @@
 - 참고 사이트: [http://word2vec.kr/](http://word2vec.kr/)
 
 #### WEEK 11. 텍스트 데이터로 머신러닝/딥러닝 적용하기
-- 비정형 데이터와 머신러닝
+- [비정형 데이터와 머신러닝](https://github.com/thejungwon/text-mining-course/blob/master/lecture/week-11.pdf)
 - 실습  
-  > _W11-1. 뉴스기사를 활용한 KOSPI 등락여부 예측하기_
+  > _W11-1. Keras를 이용한 Text Classification 1_   
+  > _W11-2. Keras를 이용한 Text Classification 2_   
+  > _W11-3. Keras를 이용한 단어 임베딩 생성_   
+  > _W11-4. Keras RNN을 이용한 Text Classification 3_   
+  > _W11-5. Keras RNN을 이용한 Text Generation_   
 
 #### WEEK 12. 비정형 데이터 분석 리뷰
 - 비정형 데이터 분석 리뷰
