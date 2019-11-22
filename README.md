@@ -86,8 +86,8 @@
   > _W11-1. Keras를 이용한 Text Classification 1_   
   > _W11-2. Keras를 이용한 Text Classification 2_   
   > _W11-3. Keras를 이용한 단어 임베딩 생성_   
-  > _W11-4. Keras RNN을 이용한 Text Classification 3_   
-  > _W11-5. Keras RNN을 이용한 Text Generation_   
+  > _W11-4. Keras RNN을 이용한 Text Classification 3 [Colab](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/text_classification_rnn.ipynb?hl=ko)_   
+  > _W11-5. Keras RNN을 이용한 Text Generation [Colab](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/ko/tutorials/text/text_generation.ipynb?hl=ko)_   
 
 #### WEEK 12. 비정형 데이터 분석 리뷰
 - 비정형 데이터 분석 리뷰
